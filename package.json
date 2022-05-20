@@ -1,0 +1,8 @@
+{
+  "name": "says",
+  "version": "0.0.1",
+  "description": "A package that says hello",
+  "main": "index.js",
+  "author": "Sanyam Jain @xerosanyam",
+  "license": "ISC"
+}
