@@ -5,6 +5,7 @@
   "author": "Sanyam Jain @xerosanyam",
   "license": "ISC",
   "bin": {
-    "pikachu": "index.js"
+    "hello": "index.js",
+    "pikachu": "pikachu.js"
   }
 }
