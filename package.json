@@ -4,8 +4,5 @@
   "description": "A package that says hello",
   "author": "Sanyam Jain @xerosanyam",
   "license": "ISC",
-  "bin": {
-    "hello": "index.js",
-    "pikachu": "pikachu.js"
-  }
+  "bin": "./index.js"
 }
